@@ -1,0 +1,30 @@
+/*
+Kelsey Padilla
+Class work
+*/
+
+
+*{ 
+margin: 0;
+padding:0;}
+
+body { text-align: center;
+background-color: #ffcccc;
+border:3px dotted black;
+padding:10px;
+}
+
+main { text-align: center;
+border:3px solid black;
+padding:10px;
+}
+
+h1 { text-align: center;
+border:2px  dashed black;
+padding:10px;
+}
+
+p	{ text-align: center;
+border:2px  dashed black;
+padding:10px;
+}
